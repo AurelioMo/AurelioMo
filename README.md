@@ -1,83 +1,67 @@
+```html
 <p align="center">
   <img
-    src="https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1E3A8A,100:2563EB&height=190&section=header&text=AURELIO&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=SOFTWARE%20%2F%20AUTOMATION%20%2F%20WEB&descSize=14&descAlignY=60"
     width="100%"
-    alt="Binary programming banner"
+    alt="Aurelio — Software, Automation and Web"
   />
 </p>
 
-<h1 align="center">Hi, I'm Aurelio.</h1>
+<h1 align="center">Aurelio</h1>
 
 <p align="center">
-  Independent Developer · Software Engineering · Automation
+  Independent Developer · Software · Automation
 </p>
 
 <p align="center">
-  Building applications, intelligent tools, and systems that solve
-  real problems through code.
+  Building software, exploring new technologies, and turning ideas
+  into practical solutions.
 </p>
 
 <p align="center">
-  <a href="#about">About</a> &nbsp; · &nbsp;
-  <a href="#technologies">Technologies</a> &nbsp; · &nbsp;
-  <a href="#github-stats">GitHub Stats</a>
+  <a href="#about">ABOUT</a> &nbsp; / &nbsp;
+  <a href="#tech-stack">TECH STACK</a> &nbsp; / &nbsp;
+  <a href="#github-stats">GITHUB STATS</a>
 </p>
 
 ---
 
 <h2 id="about">About</h2>
 
-<img
-  align="right"
-  width="320"
-  src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"
-  alt="Programming animation"
-/>
+I'm an independent developer interested in building reliable software
+across web applications, backend systems, and automation.
 
-I'm an independent developer passionate about building useful
-software and exploring what's possible with modern technology.
+I enjoy exploring new technologies, solving complex problems,
+and refining software with an emphasis on maintainability,
+functionality, and user experience.
 
-I work across different layers of software, from web interfaces
-and backend systems to APIs, bots, and automation.
-
-- Full-stack development and web applications
-- Bots, integrations, and workflow automation
-- AI-assisted development and emerging technologies
-- System design, debugging, and continuous improvement
-
-<br clear="right"/>
-
----
-
-<h2 id="technologies" align="center">Technologies & Tools</h2>
+<h2 id="tech-stack" align="center">Tech Stack</h2>
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=javascript,python,lua,cs,bash,html,css&perline=7&theme=dark"
-    alt="Programming languages"
+    src="https://skillicons.dev/icons?i=js,py,lua,cs,bash,html,css&theme=dark"
+    alt="JavaScript, Python, Lua, C Sharp, Bash, HTML and CSS"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=nodejs,nextjs,postgres,git,github,vercel,vscode&perline=7&theme=dark"
-    alt="Development tools and technologies"
+    src="https://skillicons.dev/icons?i=nodejs,nextjs,postgres,git,github,vercel,vscode&theme=dark"
+    alt="Node.js, Next.js, PostgreSQL, Git, GitHub, Vercel and VS Code"
   />
 </p>
 
----
-
-<h2 id="github-stats" align="center">GitHub Statistics</h2>
+<h2 id="github-stats" align="center">GitHub Stats</h2>
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=AurelioMo&show_icons=true&hide_border=true&theme=transparent"
-    alt="GitHub statistics"
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=AurelioMo&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400"
+    alt="GitHub statistics for AurelioMo"
   />
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AurelioMo&layout=compact&hide_border=true&theme=transparent"
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=AurelioMo&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=86400"
     alt="Most used programming languages"
   />
 </p>
@@ -85,5 +69,6 @@ and backend systems to APIs, bots, and automation.
 ---
 
 <p align="center">
-  <sub>Curiosity in ideas. Precision in execution.</sub>
+  <sub>Designed with intention. Built through iteration.</sub>
 </p>
+```
