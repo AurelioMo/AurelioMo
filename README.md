@@ -1,53 +1,53 @@
-```html
 <div align="center">
-
-# Software, built with intent.
-
-Independent developer building web products, automation systems,
-and tools that turn ideas into working software.
-
-[Selected Work](#selected-work) · [Tech Stack](#tech-stack) · [Approach](#approach)
-
+  <h1>Building software with purpose.</h1>
+  <p>Independent Developer · Full-Stack Development · Automation</p>
+  <p>Turning ideas into software through engineering, experimentation, and continuous improvement.</p>
+  <p>
+    <a href="#technologies">Technologies</a> &nbsp; / &nbsp;
+    <a href="#focus">Focus</a> &nbsp; / &nbsp;
+    <a href="#principles">Principles</a>
+  </p>
 </div>
 
 ---
 
 ### About
 
-I build and refine software across the stack, from backend systems and API integrations to user-facing applications.
+I'm an independent developer interested in building useful software, exploring new technologies, and solving problems through code.
 
-My work revolves around solving practical problems, exploring new technologies, and turning ambitious ideas into reliable products.
+My work spans web applications, backend development, automation, API integrations, and developer tools. I enjoy working across the stack, understanding how systems fit together, and refining products beyond their initial implementation.
 
-### Selected Work
+### Technologies
 
-**EnglishUp**  
-A language-learning platform focused on active practice, long-term retention, and real-world communication.
+**Languages**
 
-**Vendlix**  
-A Discord bot combining sales features, giveaways, and community automation.
-
-**Letrar-SE+**  
-An educational platform designed around literacy and interactive learning experiences.
-
-### Tech Stack
-
-**Languages**  
 JavaScript · Python · Lua · C# · Bash · HTML · CSS
 
-**Frameworks & Infrastructure**  
-Node.js · Next.js · PostgreSQL · REST APIs · Git · Vercel
+**Tools & Ecosystem**
 
-### Approach
+Node.js · Next.js · PostgreSQL · Git · REST APIs · Vercel
 
-I value deliberate engineering, maintainable code, and interfaces that feel as good to use as they are to build.
+### Focus
 
-I prefer understanding the problem before reaching for a solution, debugging systematically, and validating changes instead of relying on assumptions.
+- Full-stack applications and backend systems
+- Automation, bots, and API integrations
+- AI-assisted development and developer tooling
+- Interface design and user experience
+- Software reliability, debugging, and maintainability
+
+### Principles
+
+**Understand before implementing.**  
+Solve the underlying problem instead of patching its symptoms.
+
+**Keep things maintainable.**  
+Prefer clear, practical solutions over unnecessary complexity.
+
+**Build with intention.**  
+Treat functionality, usability, and reliability as parts of the same product.
 
 ---
 
 <div align="center">
-
-`Design thoughtfully.` `Build deliberately.` `Ship continuously.`
-
+  <sub>Curiosity drives exploration. Engineering turns it into something real.</sub>
 </div>
-```
