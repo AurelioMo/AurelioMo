@@ -1,27 +1,53 @@
-🚀 **About Me**
+```html
+<div align="center">
 
-💻 Been coding since I could hold a keyboard!
+# Software, built with intent.
 
-🔨 **Working with:**
-<p align="left"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </p>
+Independent developer building web products, automation systems,
+and tools that turn ideas into working software.
 
-🌍 **Building** bots, automations, and stunning interfaces.
+[Selected Work](#selected-work) · [Tech Stack](#tech-stack) · [Approach](#approach)
 
-📚 **Always learning** something new (and breaking things along the way).
-
-☕ **Coffee + Code** = Perfect combination!
+</div>
 
 ---
 
-### 🎯 **What I'm passionate about:**
-- Creating seamless user experiences
-- Automating the boring stuff
-- Writing clean, efficient code
-- Exploring new technologies
+### About
 
-### 🚧 **Currently working on:**
-- Advanced automation systems
-- Cross-platform applications
-- Open-source contributions
+I build and refine software across the stack, from backend systems and API integrations to user-facing applications.
 
-*"Code is poetry written in logic."*
+My work revolves around solving practical problems, exploring new technologies, and turning ambitious ideas into reliable products.
+
+### Selected Work
+
+**EnglishUp**  
+A language-learning platform focused on active practice, long-term retention, and real-world communication.
+
+**Vendlix**  
+A Discord bot combining sales features, giveaways, and community automation.
+
+**Letrar-SE+**  
+An educational platform designed around literacy and interactive learning experiences.
+
+### Tech Stack
+
+**Languages**  
+JavaScript · Python · Lua · C# · Bash · HTML · CSS
+
+**Frameworks & Infrastructure**  
+Node.js · Next.js · PostgreSQL · REST APIs · Git · Vercel
+
+### Approach
+
+I value deliberate engineering, maintainable code, and interfaces that feel as good to use as they are to build.
+
+I prefer understanding the problem before reaching for a solution, debugging systematically, and validating changes instead of relying on assumptions.
+
+---
+
+<div align="center">
+
+`Design thoughtfully.` `Build deliberately.` `Ship continuously.`
+
+</div>
+```
