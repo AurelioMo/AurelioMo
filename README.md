@@ -1,4 +1,3 @@
-```html
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1E3A8A,100:2563EB&height=190&section=header&text=AURELIO&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=SOFTWARE%20%2F%20AUTOMATION%20%2F%20WEB&descSize=14&descAlignY=60"
@@ -71,4 +70,3 @@ functionality, and user experience.
 <p align="center">
   <sub>Designed with intention. Built through iteration.</sub>
 </p>
-```
