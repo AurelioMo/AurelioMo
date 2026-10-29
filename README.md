@@ -1,53 +1,89 @@
-<div align="center">
-  <h1>Building software with purpose.</h1>
-  <p>Independent Developer · Full-Stack Development · Automation</p>
-  <p>Turning ideas into software through engineering, experimentation, and continuous improvement.</p>
-  <p>
-    <a href="#technologies">Technologies</a> &nbsp; / &nbsp;
-    <a href="#focus">Focus</a> &nbsp; / &nbsp;
-    <a href="#principles">Principles</a>
-  </p>
-</div>
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg"
+    width="100%"
+    alt="Binary programming banner"
+  />
+</p>
+
+<h1 align="center">Hi, I'm Aurelio.</h1>
+
+<p align="center">
+  Independent Developer · Software Engineering · Automation
+</p>
+
+<p align="center">
+  Building applications, intelligent tools, and systems that solve
+  real problems through code.
+</p>
+
+<p align="center">
+  <a href="#about">About</a> &nbsp; · &nbsp;
+  <a href="#technologies">Technologies</a> &nbsp; · &nbsp;
+  <a href="#github-stats">GitHub Stats</a>
+</p>
 
 ---
 
-### About
+<h2 id="about">About</h2>
 
-I'm an independent developer interested in building useful software, exploring new technologies, and solving problems through code.
+<img
+  align="right"
+  width="320"
+  src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"
+  alt="Programming animation"
+/>
 
-My work spans web applications, backend development, automation, API integrations, and developer tools. I enjoy working across the stack, understanding how systems fit together, and refining products beyond their initial implementation.
+I'm an independent developer passionate about building useful
+software and exploring what's possible with modern technology.
 
-### Technologies
+I work across different layers of software, from web interfaces
+and backend systems to APIs, bots, and automation.
 
-**Languages**
+- Full-stack development and web applications
+- Bots, integrations, and workflow automation
+- AI-assisted development and emerging technologies
+- System design, debugging, and continuous improvement
 
-JavaScript · Python · Lua · C# · Bash · HTML · CSS
-
-**Tools & Ecosystem**
-
-Node.js · Next.js · PostgreSQL · Git · REST APIs · Vercel
-
-### Focus
-
-- Full-stack applications and backend systems
-- Automation, bots, and API integrations
-- AI-assisted development and developer tooling
-- Interface design and user experience
-- Software reliability, debugging, and maintainability
-
-### Principles
-
-**Understand before implementing.**  
-Solve the underlying problem instead of patching its symptoms.
-
-**Keep things maintainable.**  
-Prefer clear, practical solutions over unnecessary complexity.
-
-**Build with intention.**  
-Treat functionality, usability, and reliability as parts of the same product.
+<br clear="right"/>
 
 ---
 
-<div align="center">
-  <sub>Curiosity drives exploration. Engineering turns it into something real.</sub>
-</div>
+<h2 id="technologies" align="center">Technologies & Tools</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=javascript,python,lua,cs,bash,html,css&perline=7&theme=dark"
+    alt="Programming languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,nextjs,postgres,git,github,vercel,vscode&perline=7&theme=dark"
+    alt="Development tools and technologies"
+  />
+</p>
+
+---
+
+<h2 id="github-stats" align="center">GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=AurelioMo&show_icons=true&hide_border=true&theme=transparent"
+    alt="GitHub statistics"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AurelioMo&layout=compact&hide_border=true&theme=transparent"
+    alt="Most used programming languages"
+  />
+</p>
+
+---
+
+<p align="center">
+  <sub>Curiosity in ideas. Precision in execution.</sub>
+</p>
